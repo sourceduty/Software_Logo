@@ -1,4 +1,4 @@
-![Software Logo](https://github.com/user-attachments/assets/161cb33d-f3cb-4ae9-bd2d-14a9f2cf76b2)
+![Software Logo](https://github.com/user-attachments/assets/06b694f8-0610-48ac-9129-1a347747955e)
 
 > Generate a suggested logo for programs or software using DALL-E 3.
 #
